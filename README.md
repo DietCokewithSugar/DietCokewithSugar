@@ -1,45 +1,48 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Crafting+Intelligent+Agents+with+UX+Sensibility" alt="Banner" width="100%" />
+  <img src="https://via.placeholder.com/800x200.png?text=CS+Master+%2B+AI+Native+Developer" alt="Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi there, I'm DietCokewithSugar 👋</h1>
 
 <p align="center">
-  <b>UX Designer ➡️ AI Agent Developer</b>
+  <b>CS Master (6 Years) ➡️ AI Agent Engineer</b>
   <br/>
-  <i>Trying to bridge the gap between Human Intent and AI Action.</i>
+  <i>Leveraging "AI Vibe Coding" to build intelligent systems for User Experience.</i>
 </p>
 
 ---
 
 ### 🧐 About Me
 
-I am a developer with a strong background in **User Experience (UX)**, currently diving deep into **LLM-based Agents** and **Browser Automation**. 
-(我是来自中国大陆的开发者，擅长用产品思维去构建 AI 应用。)
+I hold a **Master's degree in Computer Science** with 6 years of academic training. Currently, I am applying my engineering expertise in a **User Experience (UX) Department**, bridging the gap between complex backend logic and end-user needs.
 
-- 🔭 I’m currently working on: **Browser Agents & Researcher Agents**
-- 🌱 I’m currently learning: **Multi-Agent Orchestration (MetaGPT), Playwright**
-- 📸 Fun fact: I shoot film photography! (Ask me about *Maple 100* or *Aura 400*)
+My current focus is **AI-Native Development** (a.k.a. *Vibe Coding*), using LLMs to accelerate the creation of sophisticated multi-agent systems.
+
+- 🔭 I’m currently working on: **UX Voice (VoC) Analysis Agent** & **Browser Automation**
+- ⚡ Development Philosophy: **AI-First Workflow** (Cursor / Windsurf / Claude)
+- 🎓 Background: **B.S. & M.S. in Computer Science**
 - 📍 Based in: **Mainland China**
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Workflow
+
+**The "Vibe Coding" Stack (AI-First Engineering)**
 
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /><br>Python
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br><b>Python</b><br/>(Core)
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" /><br>PyTorch
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="48" height="48" alt="AI Libs" /><br><b>LLM / RAG</b><br/>(LangChain/MetaGPT)
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=selenium" width="40" height="40" alt="Selenium" /><br>Selenium
+    <td align="center" width="100">
+      <img src="https://i.imgur.com/8v6bk7w.png" width="48" height="48" alt="Cursor" /><br><b>Cursor / Windsurf</b><br/>(IDE)
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" /><br>Figma
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br><b>Deployment</b><br/>(DevOps)
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br>Git
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Vector DB" /><br><b>Vector DB</b><br/>(Memory)
     </td>
   </tr>
 </table>
@@ -48,9 +51,9 @@ I am a developer with a strong background in **User Experience (UX)**, currently
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Researcher Agent** (Planning) | An AI tool to help break academic boundaries by reading & summarizing papers. | `LLM`, `LangChain` |
-| **TikTok Stream Printer** | A tool to capture comments from live streams and format them for physical printing. | `Python`, `Auto-Printing` |
-| **Chongqing Housing VR** | Visualizing housing data in 3D/VR space for better insights. | `VR`, `Data Viz` |
+| **UX Insight Agent** (Internal Tool) | An intelligent agent that analyzes raw user feedback (Voice/Text) to extract actionable UX insights for the R&D team. | `RAG`, `Whisper`, `LLM` |
+| **TikTok Stream Printer** | A real-time system capturing live stream comments for physical printing output. | `Python`, `Auto-Printing` |
+| **Chongqing Housing VR** | Visualizing massive housing data in 3D/VR space. | `VR`, `Data Viz` |
 
 ---
 
@@ -65,6 +68,6 @@ I am a developer with a strong background in **User Experience (UX)**, currently
 
 <div align="center">
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Connect-Email-blue?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </div>
